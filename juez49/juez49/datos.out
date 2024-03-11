@@ -1,0 +1,13 @@
+Con 15 puntos hay 3
+Con 0 puntos hay 0
+Tienen 15 puntos: 666 456B 123A 
+Tienen 0 puntos: 666 
+Puntos de 456B: 6
+Tienen 6 puntos: 123A 456B 
+Tienen 6 puntos: 456B 
+Tienen 7 puntos: 123A 
+---
+ERROR: Conductor duplicado
+ERROR: Puntos no validos
+ERROR: Conductor inexistente
+---
