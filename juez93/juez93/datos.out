@@ -1,0 +1,19 @@
+En la cola 2 hay 3 clientes
+En la cola 2 estan: 34C 23B 12A 
+En la cola 0 hay 0 clientes
+En la cola 0 estan: 
+El cliente 34C esta en la cola 0
+En la cola 0 hay 2 clientes
+En la cola 0 estan: 12A 34C 
+En la cola 2 estan: 23B 
+En la cola 0 estan: 34C 
+En la cola 2 estan: 12A 23B 
+---
+ERROR: Cliente duplicado
+ERROR: Cola inexistente
+ERROR: Cola inexistente
+ERROR: Cliente inexistente
+ERROR: Cola inexistente
+---
+En la cola 2 estan: 23B 12A 
+---
